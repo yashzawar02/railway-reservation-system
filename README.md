@@ -1,4 +1,20 @@
-# railway-reservation-system
-In this project, i have implemented Python at the front-end and PyQt5 module for GUI designing. It does provides facilities to Register user with the system, to book a seat in a particular coach, to update the user details, and finally to print a receipt of a booked ticket. Users are allowed to book multiple seats in a single coach.The seats which are already been booked by the other users will not be available/visible to the other users.
+# Railway-Ticket-Booking-System
 
-Required databases file is also included. 
+## DEscription
+
+This project is made using Python programming language with OOPs concept.
+This python based GUI allow users to book a ticket and generate a receipt of a ticket.
+
+# Technology Stack Used:
+
+1. PYQT5 used for GUI designing
+2. Python (programming language and OOPs concept to integrate the functionalities.)
+3. MySQl (for database operations.)
+
+# Features
+
+1. User can register him/herself into the system.
+2. User can serach for a particular train and can book a ticket.
+3. Seats can be shown to the user, all seats which are not booked yet will be shown in the green color and seats which are already booked will be shown in grey color.
+4. User can only book a seat in green color, once the seat is booked the color will be changed to grey.
+5. At the end, System will provide a receipt to the user with all the details and the fare.
