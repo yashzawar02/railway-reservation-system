@@ -1,6 +1,7 @@
 # Railway-Ticket-Booking-System
 
-## DEscription
+
+# Description:
 
 This project is made using Python programming language with OOPs concept.
 This python based GUI allow users to book a ticket and generate a receipt of a ticket.
@@ -11,7 +12,7 @@ This python based GUI allow users to book a ticket and generate a receipt of a t
 2. Python (programming language and OOPs concept to integrate the functionalities.)
 3. MySQl (for database operations.)
 
-# Features
+# Features:
 
 1. User can register him/herself into the system.
 2. User can serach for a particular train and can book a ticket.
